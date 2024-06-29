@@ -30,7 +30,6 @@
 
 ## GitHub Pushing
     dotnet new gitignore
-
     git add .
     git commit -m 'Initial Uploads'
     git branch -M main
